@@ -1,0 +1,5 @@
+para enviar arquivo ao servidor digite:
+
+git push local master
+
+aonde local faz referencia ao nome do repositorio projetos 
